@@ -301,7 +301,7 @@ body {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 448px) {
   .section-filling__img {
     width: 145px;
     height: 131px;
